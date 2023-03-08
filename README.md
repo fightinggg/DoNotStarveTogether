@@ -5,7 +5,7 @@ git clone git@github.com:fightinggg/DoNotStarveTogether.git && cd DoNotStarveTog
 ```
 
 ```bash
-docker run -v ${PWD}:/data/DoNotStarveTogether -p 10999-11000:10999-11000/udp -p 12346-12347:12346-12347/udp -d --name dst jamesits/dst-server:latest
+docker run -v ${PWD}/data:/data -p 10999-11000:10999-11000/udp -p 12346-12347:12346-12347/udp -d --name dst jamesits/dst-server:latest
 ```
 
 ```bash
