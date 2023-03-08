@@ -115,3 +115,15 @@
 [00:00:04]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
 [00:00:04]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
 [00:00:04]: Details: SOCKET_PORT_ALREADY_IN_USE
+[00:23:59]: Collecting garbage...
+[00:23:59]: lua_gc took 0.04 seconds
+[00:23:59]: ~ShardLuaProxy()
+[00:23:59]: ~cEventLeaderboardProxy()
+[00:23:59]: ~ItemServerLuaProxy()
+[00:23:59]: ~InventoryLuaProxy()
+[00:23:59]: ~NetworkLuaProxy()
+[00:23:59]: ~SimLuaProxy()
+[00:23:59]: lua_close took 0.06 seconds
+[00:23:59]: CurlRequestManager::ClientThread::Main() complete
+[00:23:59]: HttpClient2 discarded 0 callbacks.
+[00:23:59]: Shutting down

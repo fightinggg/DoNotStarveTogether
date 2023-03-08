@@ -542,3 +542,19 @@
 [00:22:44]: Resuming user: session/7671C611A661965B/A7H8LBMH0V68
 [00:23:11]: [Steam] SendUserDisconnect for '76561198145074799'
 [00:23:11]: Connection lost to 165.158.111.202|1 <3197127901570239437>
+[00:23:59]: Available disk space for save files: 35960 MB
+[00:23:59]: Serializing world: session/7671C611A661965B/0000000003
+[00:23:59]: Removing server from lobby
+[00:23:59]: [Steam] SendUserDisconnect for ''
+[00:23:59]: Collecting garbage...
+[00:24:00]: lua_gc took 0.22 seconds
+[00:24:00]: ~ShardLuaProxy()
+[00:24:00]: ~cEventLeaderboardProxy()
+[00:24:00]: ~ItemServerLuaProxy()
+[00:24:00]: ~InventoryLuaProxy()
+[00:24:00]: ~NetworkLuaProxy()
+[00:24:00]: ~SimLuaProxy()
+[00:24:00]: lua_close took 0.27 seconds
+[00:24:00]: CurlRequestManager::ClientThread::Main() complete
+[00:24:00]: HttpClient2 discarded 1 callbacks.
+[00:24:00]: Shutting down
