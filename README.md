@@ -1,7 +1,7 @@
 # DoNotStarveTogether
 
 ```bash
-git clone https://github.com/fightinggg/DoNotStarveTogether.git && cd DoNotStarveTogether
+git clone git@github.com:fightinggg/DoNotStarveTogether.git && cd DoNotStarveTogether
 ```
 
 ```bash
