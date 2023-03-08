@@ -10,7 +10,7 @@ docker run -v ${PWD}:/data/DoNotStarveTogether -p 10999-11000:10999-11000/udp -p
 
 ```bash
 crontab -e
-* * * * * cd /src/DoNotStarveTogether && git pull && git add . && git commit -m '-'&& git push
+* * * * * cd /home/s/src/DoNotStarveTogether && git pull && git add . && git commit -m '-'&& git push
 ```
 
 # 获取token
