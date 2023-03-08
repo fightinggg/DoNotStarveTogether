@@ -537,3 +537,8 @@
 [00:22:24]: Client connected from 165.158.111.202|1 <3197127901570239437>
 [00:22:24]: ValidateGameSessionToken GUID<3197127901570239437>
 [00:22:25]: Client authenticated: (KU_AAhj47p8) 破浪
+[00:22:25]: [Steam] Authenticated host '76561198145074799'
+[00:22:26]: There is no active event to validate against.
+[00:22:44]: Resuming user: session/7671C611A661965B/A7H8LBMH0V68
+[00:23:11]: [Steam] SendUserDisconnect for '76561198145074799'
+[00:23:11]: Connection lost to 165.158.111.202|1 <3197127901570239437>
