@@ -529,3 +529,11 @@
 [00:00:26]: Validating portal[10] <-> <nil>[10] (inactive)	
 [00:00:26]: Sim paused
 [00:00:27]: Server registered via geo DNS in ap-east-1
+[00:22:20]: [P2P] Session request for '76561198145074799'
+[00:22:23]: [P2P] Create session: 165.158.111.202|1 '76561198145074799'
+[00:22:23]: [P2P] Received from 165.158.111.202|1 '76561198145074799'
+[00:22:23]: [P2P] Sent to 165.158.111.202|1 '76561198145074799'
+[00:22:24]: New incoming connection 165.158.111.202|1 <3197127901570239437>
+[00:22:24]: Client connected from 165.158.111.202|1 <3197127901570239437>
+[00:22:24]: ValidateGameSessionToken GUID<3197127901570239437>
+[00:22:25]: Client authenticated: (KU_AAhj47p8) 破浪
