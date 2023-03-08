@@ -14,3 +14,5 @@ steam启动游戏-(游戏中的'账号')-（顶部的'游戏'）-(左侧‘《�
 ```
 pds-g^aaaaaaaaa-q^jaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa=
 ```
+# 参考
+https://hub.docker.com/r/jamesits/dst-server
