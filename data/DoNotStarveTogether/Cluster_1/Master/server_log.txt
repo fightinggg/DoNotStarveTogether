@@ -535,3 +535,183 @@
 [22:30:11]: Received (KU_AAhj47p8) from TokenPurpose
 [22:54:13]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
 [22:54:13]: [Http] Curl call failed, retrying (2)...
+[23:00:42]: [200] Account Communication Success (6)
+[23:00:42]: Received (KU_AAhj47p8) from TokenPurpose
+[23:24:13]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[23:24:13]: [Http] Curl call failed, retrying (2)...
+[23:30:41]: [200] Account Communication Success (6)
+[23:30:41]: Received (KU_AAhj47p8) from TokenPurpose
+[00:00:11]: [200] Account Communication Success (6)
+[00:00:11]: Received (KU_AAhj47p8) from TokenPurpose
+[00:09:13]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[00:09:13]: [Http] Curl call failed, retrying (2)...
+[00:30:41]: [200] Account Communication Success (6)
+[00:30:41]: Received (KU_AAhj47p8) from TokenPurpose
+[00:59:14]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[00:59:14]: [Http] Curl call failed, retrying (2)...
+[01:00:55]: CURL ERROR: (login.kleientertainment.com) [7]Failed to connect to login.kleientertainment.com port 443: Connection timed out
+[01:00:55]: [0] Account Failed (6): ""
+[01:00:55]: [Warning] Empty error code received, dumping response:
+[01:00:55]: 
+[01:00:55]: [Connect] PendingConnection::Reset(true)
+[01:30:11]: [200] Account Communication Success (6)
+[01:30:11]: Received (KU_AAhj47p8) from TokenPurpose
+[02:00:11]: [200] Account Communication Success (6)
+[02:00:11]: Received (KU_AAhj47p8) from TokenPurpose
+[02:30:11]: [200] Account Communication Success (6)
+[02:30:11]: Received (KU_AAhj47p8) from TokenPurpose
+[02:39:14]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[02:39:14]: [Http] Curl call failed, retrying (2)...
+[03:00:11]: [200] Account Communication Success (6)
+[03:00:11]: Received (KU_AAhj47p8) from TokenPurpose
+[03:09:14]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[03:09:14]: [Http] Curl call failed, retrying (2)...
+[03:19:14]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[03:19:14]: [Http] Curl call failed, retrying (2)...
+[03:30:12]: [200] Account Communication Success (6)
+[03:30:12]: Received (KU_AAhj47p8) from TokenPurpose
+[04:00:55]: CURL ERROR: (login.kleientertainment.com) [7]Failed to connect to login.kleientertainment.com port 443: Connection timed out
+[04:00:55]: [0] Account Failed (6): ""
+[04:00:55]: [Warning] Empty error code received, dumping response:
+[04:00:55]: 
+[04:00:55]: [Connect] PendingConnection::Reset(true)
+[04:30:55]: CURL ERROR: (login.kleientertainment.com) [7]Failed to connect to login.kleientertainment.com port 443: Connection timed out
+[04:30:55]: [0] Account Failed (6): ""
+[04:30:55]: [Warning] Empty error code received, dumping response:
+[04:30:55]: 
+[04:30:55]: [Connect] PendingConnection::Reset(true)
+[05:00:11]: [200] Account Communication Success (6)
+[05:00:11]: Received (KU_AAhj47p8) from TokenPurpose
+[05:30:11]: [200] Account Communication Success (6)
+[05:30:11]: Received (KU_AAhj47p8) from TokenPurpose
+[05:41:37]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[05:41:37]: [Http] Curl call failed, retrying (2)...
+[06:00:41]: [200] Account Communication Success (6)
+[06:00:41]: Received (KU_AAhj47p8) from TokenPurpose
+[06:30:11]: [200] Account Communication Success (6)
+[06:30:11]: Received (KU_AAhj47p8) from TokenPurpose
+[06:40:53]: [Http] Curl call failed, retrying (2)...
+[06:40:53]: [Http] Curl call failed, retrying (1)...
+[06:40:53]: [Http] Curl call failed, retrying (0)...
+[06:40:54]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[06:40:54]: Master Server Broadcast will try to broadcast a new listing.
+[06:40:57]: Server registered via geo DNS in ap-southeast-1
+[07:00:12]: [200] Account Communication Success (6)
+[07:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[07:06:47]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[07:06:47]: [Http] Curl call failed, retrying (2)...
+[07:07:19]: [Http] Curl call failed, retrying (1)...
+[07:07:19]: [Http] Curl call failed, retrying (0)...
+[07:07:20]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[07:07:20]: Master Server Broadcast will try to broadcast a new listing.
+[07:07:42]: Server registered via geo DNS in ap-east-1
+[07:13:43]: [Http] Curl call failed, retrying (2)...
+[07:14:43]: [Http] Curl call failed, retrying (1)...
+[07:15:44]: [Http] Curl call failed, retrying (0)...
+[07:18:44]: [Http] Curl call failed, retrying (2)...
+[07:30:13]: [200] Account Communication Success (6)
+[07:30:13]: Received (KU_AAhj47p8) from TokenPurpose
+[07:38:28]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[07:38:28]: [Http] Curl call failed, retrying (2)...
+[07:39:13]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[07:39:13]: [Http] Curl call failed, retrying (1)...
+[07:58:28]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[07:58:28]: [Http] Curl call failed, retrying (2)...
+[08:00:41]: [200] Account Communication Success (6)
+[08:00:41]: Received (KU_AAhj47p8) from TokenPurpose
+[08:30:55]: CURL ERROR: (login.kleientertainment.com) [7]Failed to connect to login.kleientertainment.com port 443: Connection timed out
+[08:30:55]: [0] Account Failed (6): ""
+[08:30:55]: [Warning] Empty error code received, dumping response:
+[08:30:55]: 
+[08:30:55]: [Connect] PendingConnection::Reset(true)
+[09:00:12]: [200] Account Communication Success (6)
+[09:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[09:23:28]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[09:23:28]: [Http] Curl call failed, retrying (2)...
+[09:30:11]: [200] Account Communication Success (6)
+[09:30:11]: Received (KU_AAhj47p8) from TokenPurpose
+[10:00:12]: [200] Account Communication Success (6)
+[10:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[10:08:28]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[10:08:28]: [Http] Curl call failed, retrying (2)...
+[10:09:13]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[10:09:13]: [Http] Curl call failed, retrying (1)...
+[10:13:28]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[10:13:28]: [Http] Curl call failed, retrying (2)...
+[10:30:12]: [200] Account Communication Success (6)
+[10:30:12]: Received (KU_AAhj47p8) from TokenPurpose
+[10:53:28]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[10:53:28]: [Http] Curl call failed, retrying (2)...
+[11:00:11]: [200] Account Communication Success (6)
+[11:00:11]: Received (KU_AAhj47p8) from TokenPurpose
+[11:30:11]: [200] Account Communication Success (6)
+[11:30:11]: Received (KU_AAhj47p8) from TokenPurpose
+[11:33:28]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[11:33:28]: [Http] Curl call failed, retrying (2)...
+[11:53:28]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[11:53:28]: [Http] Curl call failed, retrying (2)...
+[12:00:13]: [200] Account Communication Success (6)
+[12:00:13]: Received (KU_AAhj47p8) from TokenPurpose
+[12:30:13]: [200] Account Communication Success (6)
+[12:30:13]: Received (KU_AAhj47p8) from TokenPurpose
+[12:33:28]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[12:33:28]: [Http] Curl call failed, retrying (2)...
+[13:00:11]: [200] Account Communication Success (6)
+[13:00:11]: Received (KU_AAhj47p8) from TokenPurpose
+[13:30:42]: [200] Account Communication Success (6)
+[13:30:42]: Received (KU_AAhj47p8) from TokenPurpose
+[13:38:43]: CURL ERROR: (lobby-v2.klei.com) [28]Operation timed out after 60001 milliseconds with 0 out of 0 bytes received
+[13:38:43]: [Http] Curl call failed, retrying (2)...
+[14:00:13]: [200] Account Communication Success (6)
+[14:00:13]: Received (KU_AAhj47p8) from TokenPurpose
+[14:01:20]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[14:01:20]: [Http] Curl call failed, retrying (2)...
+[14:30:13]: [200] Account Communication Success (6)
+[14:30:13]: Received (KU_AAhj47p8) from TokenPurpose
+[14:31:20]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[14:31:20]: [Http] Curl call failed, retrying (2)...
+[15:00:55]: CURL ERROR: (login.kleientertainment.com) [7]Failed to connect to login.kleientertainment.com port 443: Connection timed out
+[15:00:55]: [0] Account Failed (6): ""
+[15:00:55]: [Warning] Empty error code received, dumping response:
+[15:00:55]: 
+[15:00:55]: [Connect] PendingConnection::Reset(true)
+[15:30:12]: [200] Account Communication Success (6)
+[15:30:12]: Received (KU_AAhj47p8) from TokenPurpose
+[15:31:21]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[15:31:21]: [Http] Curl call failed, retrying (2)...
+[15:36:21]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[15:36:21]: [Http] Curl call failed, retrying (2)...
+[15:56:21]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[15:56:21]: [Http] Curl call failed, retrying (2)...
+[16:00:12]: [200] Account Communication Success (6)
+[16:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[16:16:21]: CURL ERROR: (lobby-v2.klei.com) [7]Failed to connect to lobby-v2.klei.com port 443: Connection timed out
+[16:16:21]: [Http] Curl call failed, retrying (2)...
+[16:30:41]: [200] Account Communication Success (6)
+[16:30:41]: Received (KU_AAhj47p8) from TokenPurpose
+[17:00:12]: [200] Account Communication Success (6)
+[17:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[17:30:11]: [200] Account Communication Success (6)
+[17:30:11]: Received (KU_AAhj47p8) from TokenPurpose
+[18:00:12]: [200] Account Communication Success (6)
+[18:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[18:30:13]: [200] Account Communication Success (6)
+[18:30:13]: Received (KU_AAhj47p8) from TokenPurpose
+[19:00:12]: [200] Account Communication Success (6)
+[19:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[19:30:12]: [200] Account Communication Success (6)
+[19:30:12]: Received (KU_AAhj47p8) from TokenPurpose
+[19:51:36]: CURL ERROR: (lobby-v2.klei.com) [28]Operation timed out after 60002 milliseconds with 0 out of 0 bytes received
+[19:51:36]: [Http] Curl call failed, retrying (2)...
+[20:00:12]: [200] Account Communication Success (6)
+[20:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[20:30:12]: [200] Account Communication Success (6)
+[20:30:12]: Received (KU_AAhj47p8) from TokenPurpose
+[21:00:12]: [200] Account Communication Success (6)
+[21:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[21:30:14]: [200] Account Communication Success (6)
+[21:30:14]: Received (KU_AAhj47p8) from TokenPurpose
+[22:00:12]: [200] Account Communication Success (6)
+[22:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[22:30:12]: [200] Account Communication Success (6)
+[22:30:12]: Received (KU_AAhj47p8) from TokenPurpose
