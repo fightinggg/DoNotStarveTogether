@@ -1,7 +1,7 @@
 [00:00:00]: PersistRootStorage is now /data//DoNotStarveTogether/Cluster_1/Caves/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 542788
-[00:00:00]: Current time: Wed Mar  8 17:03:53 2023
+[00:00:00]: Current time: Sun Mar 12 07:14:56 2023
 
 [00:00:00]: System Name: Linux
 [00:00:00]: Host Name: da0c8f4bbc1f
@@ -18,84 +18,630 @@
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
-[00:00:00]: THREAD - started 'GAClient' (4138208064)
-[00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
-[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
-[00:00:00]: Mounting file system databundles/images.zip successful.
-[00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
-[00:00:00]: [Steam] SteamGameServer_Init success
-[00:00:00]: ProfileIndex:5.03
-[00:00:00]: [Connect] PendingConnection::Reset(true)
-[00:00:00]: Platform: 1
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
-[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
-[00:00:00]: OnLoadUserIdList: /data//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
-[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
-[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
-[00:00:00]: cGame::InitializeOnMainThread
-[00:00:00]: THREAD - started 'StreamInput' (4082088768)
-[00:00:00]: Renderer initialize: Okay
-[00:00:00]: AnimManager initialize: Okay
-[00:00:00]: Buffers initialize: Okay
-[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
-[00:00:00]: GameSpecific initialize: Okay
-[00:00:00]: cGame::StartPlaying
-[00:00:00]: AppVersion::GetArchitecture() x32
-[00:00:00]: LOADING LUA
-[00:00:00]: DoLuaFile scripts/main.lua
-[00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
-[00:00:04]:   taskgrouplist:	default	联机版	
-[00:00:04]:   taskgrouplist:	classic	经典	
-[00:00:04]:   taskgrouplist:	cave_default	地下	
-[00:00:04]:   taskgrouplist:	lavaarena_taskset	熔炉	
-[00:00:04]:   taskgrouplist:	quagmire_taskset	暴食	
-[00:00:04]: Running main.lua
+[00:00:01]: THREAD - started 'GAClient' (4138384192)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:01]: [Steam] SteamGameServer_Init(10999, 27017)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:6.35
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: /data//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: THREAD - started 'StreamInput' (4082088768)
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x32
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:05]:   taskgrouplist:	default	联机版	
+[00:00:05]:   taskgrouplist:	classic	经典	
+[00:00:05]:   taskgrouplist:	cave_default	地下	
+[00:00:05]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:05]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:05]: Running main.lua
 	
-[00:00:04]: loaded modindex	
-[00:00:04]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:05]: loaded modindex	
+[00:00:05]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:05]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:07]: LOADING LUA SUCCESS
-[00:00:07]: PlayerDeaths could not load morgue	
-[00:00:07]: PlayerHistory could not load player_history	
-[00:00:07]: ServerPreferences could not load server_preferences	
-[00:00:07]: ConsoleScreenSettings could not load consolescreen	
-[00:00:07]: bloom_enabled	true	
-[00:00:07]: OnFilesLoaded()	
-[00:00:07]: OnUpdatePurchaseStateComplete	
-[00:00:07]: Klump load on boot started.	
-[00:00:07]: Klump files loaded: 	0	
-[00:00:09]: 	Load FE	
-[00:00:10]: 	Load FE: done	
-[00:00:10]: Check for write access: TRUE
-[00:00:10]: Check for read access: TRUE
-[00:00:10]: Available disk space for save files: 30067 MB
-[00:00:10]: ModIndex: Load sequence finished successfully.	
-[00:00:10]: Reset() returning
-[00:00:10]: THREAD - started 'FilesExistAsyncThread' (4035971904)
-[00:00:10]: FilesExistAsyncThread started (21475 files)...
-[00:00:12]: ... FilesExistAsyncThread complete
-[00:00:55]: CURL ERROR: (login.kleientertainment.com) [7]Failed to connect to login.kleientertainment.com port 443: Connection timed out
-[00:00:55]: [0] Account Failed (6): ""
-[00:00:55]: [Warning] Empty error code received, dumping response:
-[00:00:55]: 
-[00:00:55]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-[00:00:55]: !!!! Your Server Will Not Start !!!!
-[00:00:55]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-[00:00:55]: No auth token could be found.
-[00:00:55]: Please visit https://accounts.klei.com/account/game/servers?game=DontStarveTogether
-[00:00:55]: to generate server configuration files
-[00:00:55]: 
-[00:00:55]: Alternatively generate a cluster_token you can
-[00:00:55]: open the console from a logged-in game
-[00:00:55]: client with the tilda key (~ / ù) and type:
-[00:00:55]: TheNet:GenerateClusterToken()
-[00:00:55]: This will create 'cluster_token.txt' in
-[00:00:55]: your client settings directory. Copy this
-[00:00:55]: into your cluster settings directory.
-[00:00:55]: [Connect] PendingConnection::Reset(true)
+[00:00:06]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:08]: LOADING LUA SUCCESS
+[00:00:08]: PlayerDeaths could not load morgue	
+[00:00:08]: PlayerHistory could not load player_history	
+[00:00:08]: ServerPreferences could not load server_preferences	
+[00:00:08]: ConsoleScreenSettings could not load consolescreen	
+[00:00:08]: bloom_enabled	true	
+[00:00:08]: OnFilesLoaded()	
+[00:00:08]: OnUpdatePurchaseStateComplete	
+[00:00:08]: Klump load on boot started.	
+[00:00:08]: Klump files loaded: 	0	
+[00:00:10]: 	Load FE	
+[00:00:11]: 	Load FE: done	
+[00:00:11]: Check for write access: TRUE
+[00:00:11]: Check for read access: TRUE
+[00:00:11]: Available disk space for save files: 27067 MB
+[00:00:11]: ModIndex: Load sequence finished successfully.	
+[00:00:11]: Reset() returning
+[00:00:11]: THREAD - started 'FilesExistAsyncThread' (4034022208)
+[00:00:11]: FilesExistAsyncThread started (21475 files)...
+[00:00:15]: ... FilesExistAsyncThread complete
+[00:00:16]: [200] Account Communication Success (6)
+[00:00:16]: Cached userid (null) saved to /data//DoNotStarveTogether/Cluster_1/Caves/save/cached_userid
+[00:00:16]: Received (KU_AAhj47p8) from TokenPurpose
+[00:00:16]: Starting Dedicated Server Game	
+[00:00:16]: Network tick rate: U=15(2), D=0
+[00:00:16]: About to start a server with the following settings:
+[00:00:16]:   Dedicated: true
+[00:00:16]:   Online: true
+[00:00:16]:   Passworded: true
+[00:00:16]:   ServerPort: 10999
+[00:00:16]:   SteamAuthPort: 8766
+[00:00:16]:   SteamMasterServerPort: 27016
+[00:00:16]:   ClanID: false
+[00:00:16]:   ClanOnly: false
+[00:00:16]:   ClanAdmin: false
+[00:00:16]:   LanOnly: false
+[00:00:16]:   FriendsOnly: false
+[00:00:16]:   EnableAutosaver: true
+[00:00:16]:   EncodeUserPath: true
+[00:00:16]:   PVP: false
+[00:00:16]:   MaxPlayers: 6
+[00:00:16]:   GameMode: endless
+[00:00:16]:   OverridenDNS: 
+[00:00:16]:   PauseWhenEmpty: true
+[00:00:16]:   IdleTimeout: 1800s
+[00:00:16]:   VoteEnabled: true
+[00:00:16]:   InternetBroadcasting: true
+[00:00:16]: [Shard] Shard server mode disabled: missing is_master setting.
+[00:00:16]: [Shard] Missing 'is_master' config field.
+[00:00:16]: [Error] Server failed to start!
+[00:00:16]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[00:00:16]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[00:00:16]: Details: SOCKET_PORT_ALREADY_IN_USE
+[00:30:12]: [200] Account Communication Success (6)
+[00:30:12]: Received (KU_AAhj47p8) from TokenPurpose
+[00:30:12]: Starting Dedicated Server Game	
+[00:30:12]: Network tick rate: U=15(2), D=0
+[00:30:12]: About to start a server with the following settings:
+[00:30:12]:   Dedicated: true
+[00:30:12]:   Online: true
+[00:30:12]:   Passworded: true
+[00:30:12]:   ServerPort: 10999
+[00:30:12]:   SteamAuthPort: 8766
+[00:30:12]:   SteamMasterServerPort: 27016
+[00:30:12]:   ClanID: false
+[00:30:12]:   ClanOnly: false
+[00:30:12]:   ClanAdmin: false
+[00:30:12]:   LanOnly: false
+[00:30:12]:   FriendsOnly: false
+[00:30:12]:   EnableAutosaver: true
+[00:30:12]:   EncodeUserPath: true
+[00:30:12]:   PVP: false
+[00:30:12]:   MaxPlayers: 6
+[00:30:12]:   GameMode: endless
+[00:30:12]:   OverridenDNS: 
+[00:30:12]:   PauseWhenEmpty: true
+[00:30:12]:   IdleTimeout: 1800s
+[00:30:12]:   VoteEnabled: true
+[00:30:12]:   InternetBroadcasting: true
+[00:30:12]: [Shard] Shard server mode disabled: missing is_master setting.
+[00:30:12]: [Shard] Missing 'is_master' config field.
+[00:30:13]: [Error] Server failed to start!
+[00:30:13]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[00:30:13]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[00:30:13]: Details: SOCKET_PORT_ALREADY_IN_USE
+[01:00:12]: [200] Account Communication Success (6)
+[01:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[01:00:12]: Starting Dedicated Server Game	
+[01:00:12]: Network tick rate: U=15(2), D=0
+[01:00:12]: About to start a server with the following settings:
+[01:00:12]:   Dedicated: true
+[01:00:12]:   Online: true
+[01:00:12]:   Passworded: true
+[01:00:12]:   ServerPort: 10999
+[01:00:12]:   SteamAuthPort: 8766
+[01:00:12]:   SteamMasterServerPort: 27016
+[01:00:12]:   ClanID: false
+[01:00:12]:   ClanOnly: false
+[01:00:12]:   ClanAdmin: false
+[01:00:12]:   LanOnly: false
+[01:00:12]:   FriendsOnly: false
+[01:00:12]:   EnableAutosaver: true
+[01:00:12]:   EncodeUserPath: true
+[01:00:12]:   PVP: false
+[01:00:12]:   MaxPlayers: 6
+[01:00:12]:   GameMode: endless
+[01:00:12]:   OverridenDNS: 
+[01:00:12]:   PauseWhenEmpty: true
+[01:00:12]:   IdleTimeout: 1800s
+[01:00:12]:   VoteEnabled: true
+[01:00:12]:   InternetBroadcasting: true
+[01:00:12]: [Shard] Shard server mode disabled: missing is_master setting.
+[01:00:12]: [Shard] Missing 'is_master' config field.
+[01:00:13]: [Error] Server failed to start!
+[01:00:13]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[01:00:13]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[01:00:13]: Details: SOCKET_PORT_ALREADY_IN_USE
+[01:30:16]: [200] Account Communication Success (6)
+[01:30:16]: Received (KU_AAhj47p8) from TokenPurpose
+[01:30:16]: Starting Dedicated Server Game	
+[01:30:16]: Network tick rate: U=15(2), D=0
+[01:30:16]: About to start a server with the following settings:
+[01:30:16]:   Dedicated: true
+[01:30:16]:   Online: true
+[01:30:16]:   Passworded: true
+[01:30:16]:   ServerPort: 10999
+[01:30:16]:   SteamAuthPort: 8766
+[01:30:16]:   SteamMasterServerPort: 27016
+[01:30:16]:   ClanID: false
+[01:30:16]:   ClanOnly: false
+[01:30:16]:   ClanAdmin: false
+[01:30:16]:   LanOnly: false
+[01:30:16]:   FriendsOnly: false
+[01:30:16]:   EnableAutosaver: true
+[01:30:16]:   EncodeUserPath: true
+[01:30:16]:   PVP: false
+[01:30:16]:   MaxPlayers: 6
+[01:30:16]:   GameMode: endless
+[01:30:16]:   OverridenDNS: 
+[01:30:16]:   PauseWhenEmpty: true
+[01:30:16]:   IdleTimeout: 1800s
+[01:30:16]:   VoteEnabled: true
+[01:30:16]:   InternetBroadcasting: true
+[01:30:16]: [Shard] Shard server mode disabled: missing is_master setting.
+[01:30:16]: [Shard] Missing 'is_master' config field.
+[01:30:16]: [Error] Server failed to start!
+[01:30:16]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[01:30:16]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[01:30:16]: Details: SOCKET_PORT_ALREADY_IN_USE
+[02:00:12]: [200] Account Communication Success (6)
+[02:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[02:00:12]: Starting Dedicated Server Game	
+[02:00:12]: Network tick rate: U=15(2), D=0
+[02:00:12]: About to start a server with the following settings:
+[02:00:12]:   Dedicated: true
+[02:00:12]:   Online: true
+[02:00:12]:   Passworded: true
+[02:00:12]:   ServerPort: 10999
+[02:00:12]:   SteamAuthPort: 8766
+[02:00:12]:   SteamMasterServerPort: 27016
+[02:00:12]:   ClanID: false
+[02:00:12]:   ClanOnly: false
+[02:00:12]:   ClanAdmin: false
+[02:00:12]:   LanOnly: false
+[02:00:12]:   FriendsOnly: false
+[02:00:12]:   EnableAutosaver: true
+[02:00:12]:   EncodeUserPath: true
+[02:00:12]:   PVP: false
+[02:00:12]:   MaxPlayers: 6
+[02:00:12]:   GameMode: endless
+[02:00:12]:   OverridenDNS: 
+[02:00:12]:   PauseWhenEmpty: true
+[02:00:12]:   IdleTimeout: 1800s
+[02:00:12]:   VoteEnabled: true
+[02:00:12]:   InternetBroadcasting: true
+[02:00:12]: [Shard] Shard server mode disabled: missing is_master setting.
+[02:00:12]: [Shard] Missing 'is_master' config field.
+[02:00:12]: [Error] Server failed to start!
+[02:00:12]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[02:00:12]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[02:00:12]: Details: SOCKET_PORT_ALREADY_IN_USE
+[02:30:13]: [200] Account Communication Success (6)
+[02:30:13]: Received (KU_AAhj47p8) from TokenPurpose
+[02:30:13]: Starting Dedicated Server Game	
+[02:30:13]: Network tick rate: U=15(2), D=0
+[02:30:13]: About to start a server with the following settings:
+[02:30:13]:   Dedicated: true
+[02:30:13]:   Online: true
+[02:30:13]:   Passworded: true
+[02:30:13]:   ServerPort: 10999
+[02:30:13]:   SteamAuthPort: 8766
+[02:30:13]:   SteamMasterServerPort: 27016
+[02:30:13]:   ClanID: false
+[02:30:13]:   ClanOnly: false
+[02:30:13]:   ClanAdmin: false
+[02:30:13]:   LanOnly: false
+[02:30:13]:   FriendsOnly: false
+[02:30:13]:   EnableAutosaver: true
+[02:30:13]:   EncodeUserPath: true
+[02:30:13]:   PVP: false
+[02:30:13]:   MaxPlayers: 6
+[02:30:13]:   GameMode: endless
+[02:30:13]:   OverridenDNS: 
+[02:30:13]:   PauseWhenEmpty: true
+[02:30:13]:   IdleTimeout: 1800s
+[02:30:13]:   VoteEnabled: true
+[02:30:13]:   InternetBroadcasting: true
+[02:30:13]: [Shard] Shard server mode disabled: missing is_master setting.
+[02:30:13]: [Shard] Missing 'is_master' config field.
+[02:30:13]: [Error] Server failed to start!
+[02:30:13]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[02:30:13]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[02:30:13]: Details: SOCKET_PORT_ALREADY_IN_USE
+[03:00:13]: [200] Account Communication Success (6)
+[03:00:13]: Received (KU_AAhj47p8) from TokenPurpose
+[03:00:13]: Starting Dedicated Server Game	
+[03:00:13]: Network tick rate: U=15(2), D=0
+[03:00:13]: About to start a server with the following settings:
+[03:00:13]:   Dedicated: true
+[03:00:13]:   Online: true
+[03:00:13]:   Passworded: true
+[03:00:13]:   ServerPort: 10999
+[03:00:13]:   SteamAuthPort: 8766
+[03:00:13]:   SteamMasterServerPort: 27016
+[03:00:13]:   ClanID: false
+[03:00:13]:   ClanOnly: false
+[03:00:13]:   ClanAdmin: false
+[03:00:13]:   LanOnly: false
+[03:00:13]:   FriendsOnly: false
+[03:00:13]:   EnableAutosaver: true
+[03:00:13]:   EncodeUserPath: true
+[03:00:13]:   PVP: false
+[03:00:13]:   MaxPlayers: 6
+[03:00:13]:   GameMode: endless
+[03:00:13]:   OverridenDNS: 
+[03:00:13]:   PauseWhenEmpty: true
+[03:00:13]:   IdleTimeout: 1800s
+[03:00:13]:   VoteEnabled: true
+[03:00:13]:   InternetBroadcasting: true
+[03:00:13]: [Shard] Shard server mode disabled: missing is_master setting.
+[03:00:13]: [Shard] Missing 'is_master' config field.
+[03:00:13]: [Error] Server failed to start!
+[03:00:13]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[03:00:13]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[03:00:13]: Details: SOCKET_PORT_ALREADY_IN_USE
+[03:30:13]: [200] Account Communication Success (6)
+[03:30:13]: Received (KU_AAhj47p8) from TokenPurpose
+[03:30:13]: Starting Dedicated Server Game	
+[03:30:13]: Network tick rate: U=15(2), D=0
+[03:30:13]: About to start a server with the following settings:
+[03:30:13]:   Dedicated: true
+[03:30:13]:   Online: true
+[03:30:13]:   Passworded: true
+[03:30:13]:   ServerPort: 10999
+[03:30:13]:   SteamAuthPort: 8766
+[03:30:13]:   SteamMasterServerPort: 27016
+[03:30:13]:   ClanID: false
+[03:30:13]:   ClanOnly: false
+[03:30:13]:   ClanAdmin: false
+[03:30:13]:   LanOnly: false
+[03:30:13]:   FriendsOnly: false
+[03:30:13]:   EnableAutosaver: true
+[03:30:13]:   EncodeUserPath: true
+[03:30:13]:   PVP: false
+[03:30:13]:   MaxPlayers: 6
+[03:30:13]:   GameMode: endless
+[03:30:13]:   OverridenDNS: 
+[03:30:13]:   PauseWhenEmpty: true
+[03:30:13]:   IdleTimeout: 1800s
+[03:30:13]:   VoteEnabled: true
+[03:30:13]:   InternetBroadcasting: true
+[03:30:13]: [Shard] Shard server mode disabled: missing is_master setting.
+[03:30:13]: [Shard] Missing 'is_master' config field.
+[03:30:13]: [Error] Server failed to start!
+[03:30:13]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[03:30:13]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[03:30:13]: Details: SOCKET_PORT_ALREADY_IN_USE
+[04:00:12]: [200] Account Communication Success (6)
+[04:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[04:00:12]: Starting Dedicated Server Game	
+[04:00:12]: Network tick rate: U=15(2), D=0
+[04:00:12]: About to start a server with the following settings:
+[04:00:12]:   Dedicated: true
+[04:00:12]:   Online: true
+[04:00:12]:   Passworded: true
+[04:00:12]:   ServerPort: 10999
+[04:00:12]:   SteamAuthPort: 8766
+[04:00:12]:   SteamMasterServerPort: 27016
+[04:00:12]:   ClanID: false
+[04:00:12]:   ClanOnly: false
+[04:00:12]:   ClanAdmin: false
+[04:00:12]:   LanOnly: false
+[04:00:12]:   FriendsOnly: false
+[04:00:12]:   EnableAutosaver: true
+[04:00:12]:   EncodeUserPath: true
+[04:00:12]:   PVP: false
+[04:00:12]:   MaxPlayers: 6
+[04:00:12]:   GameMode: endless
+[04:00:12]:   OverridenDNS: 
+[04:00:12]:   PauseWhenEmpty: true
+[04:00:12]:   IdleTimeout: 1800s
+[04:00:12]:   VoteEnabled: true
+[04:00:12]:   InternetBroadcasting: true
+[04:00:12]: [Shard] Shard server mode disabled: missing is_master setting.
+[04:00:12]: [Shard] Missing 'is_master' config field.
+[04:00:12]: [Error] Server failed to start!
+[04:00:12]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[04:00:12]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[04:00:12]: Details: SOCKET_PORT_ALREADY_IN_USE
+[04:30:13]: [200] Account Communication Success (6)
+[04:30:13]: Received (KU_AAhj47p8) from TokenPurpose
+[04:30:13]: Starting Dedicated Server Game	
+[04:30:13]: Network tick rate: U=15(2), D=0
+[04:30:13]: About to start a server with the following settings:
+[04:30:13]:   Dedicated: true
+[04:30:13]:   Online: true
+[04:30:13]:   Passworded: true
+[04:30:13]:   ServerPort: 10999
+[04:30:13]:   SteamAuthPort: 8766
+[04:30:13]:   SteamMasterServerPort: 27016
+[04:30:13]:   ClanID: false
+[04:30:13]:   ClanOnly: false
+[04:30:13]:   ClanAdmin: false
+[04:30:13]:   LanOnly: false
+[04:30:13]:   FriendsOnly: false
+[04:30:13]:   EnableAutosaver: true
+[04:30:13]:   EncodeUserPath: true
+[04:30:13]:   PVP: false
+[04:30:13]:   MaxPlayers: 6
+[04:30:13]:   GameMode: endless
+[04:30:13]:   OverridenDNS: 
+[04:30:13]:   PauseWhenEmpty: true
+[04:30:13]:   IdleTimeout: 1800s
+[04:30:13]:   VoteEnabled: true
+[04:30:13]:   InternetBroadcasting: true
+[04:30:13]: [Shard] Shard server mode disabled: missing is_master setting.
+[04:30:13]: [Shard] Missing 'is_master' config field.
+[04:30:13]: [Error] Server failed to start!
+[04:30:13]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[04:30:13]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[04:30:13]: Details: SOCKET_PORT_ALREADY_IN_USE
+[05:00:14]: [200] Account Communication Success (6)
+[05:00:14]: Received (KU_AAhj47p8) from TokenPurpose
+[05:00:14]: Starting Dedicated Server Game	
+[05:00:14]: Network tick rate: U=15(2), D=0
+[05:00:14]: About to start a server with the following settings:
+[05:00:14]:   Dedicated: true
+[05:00:14]:   Online: true
+[05:00:14]:   Passworded: true
+[05:00:14]:   ServerPort: 10999
+[05:00:14]:   SteamAuthPort: 8766
+[05:00:14]:   SteamMasterServerPort: 27016
+[05:00:14]:   ClanID: false
+[05:00:14]:   ClanOnly: false
+[05:00:14]:   ClanAdmin: false
+[05:00:14]:   LanOnly: false
+[05:00:14]:   FriendsOnly: false
+[05:00:14]:   EnableAutosaver: true
+[05:00:14]:   EncodeUserPath: true
+[05:00:14]:   PVP: false
+[05:00:14]:   MaxPlayers: 6
+[05:00:14]:   GameMode: endless
+[05:00:14]:   OverridenDNS: 
+[05:00:14]:   PauseWhenEmpty: true
+[05:00:14]:   IdleTimeout: 1800s
+[05:00:14]:   VoteEnabled: true
+[05:00:14]:   InternetBroadcasting: true
+[05:00:14]: [Shard] Shard server mode disabled: missing is_master setting.
+[05:00:14]: [Shard] Missing 'is_master' config field.
+[05:00:14]: [Error] Server failed to start!
+[05:00:14]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[05:00:14]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[05:00:14]: Details: SOCKET_PORT_ALREADY_IN_USE
+[05:30:13]: [200] Account Communication Success (6)
+[05:30:13]: Received (KU_AAhj47p8) from TokenPurpose
+[05:30:13]: Starting Dedicated Server Game	
+[05:30:13]: Network tick rate: U=15(2), D=0
+[05:30:13]: About to start a server with the following settings:
+[05:30:13]:   Dedicated: true
+[05:30:13]:   Online: true
+[05:30:13]:   Passworded: true
+[05:30:13]:   ServerPort: 10999
+[05:30:13]:   SteamAuthPort: 8766
+[05:30:13]:   SteamMasterServerPort: 27016
+[05:30:13]:   ClanID: false
+[05:30:13]:   ClanOnly: false
+[05:30:13]:   ClanAdmin: false
+[05:30:13]:   LanOnly: false
+[05:30:13]:   FriendsOnly: false
+[05:30:13]:   EnableAutosaver: true
+[05:30:13]:   EncodeUserPath: true
+[05:30:13]:   PVP: false
+[05:30:13]:   MaxPlayers: 6
+[05:30:13]:   GameMode: endless
+[05:30:13]:   OverridenDNS: 
+[05:30:13]:   PauseWhenEmpty: true
+[05:30:13]:   IdleTimeout: 1800s
+[05:30:13]:   VoteEnabled: true
+[05:30:13]:   InternetBroadcasting: true
+[05:30:13]: [Shard] Shard server mode disabled: missing is_master setting.
+[05:30:13]: [Shard] Missing 'is_master' config field.
+[05:30:13]: [Error] Server failed to start!
+[05:30:13]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[05:30:13]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[05:30:13]: Details: SOCKET_PORT_ALREADY_IN_USE
+[06:00:13]: [200] Account Communication Success (6)
+[06:00:13]: Received (KU_AAhj47p8) from TokenPurpose
+[06:00:13]: Starting Dedicated Server Game	
+[06:00:13]: Network tick rate: U=15(2), D=0
+[06:00:13]: About to start a server with the following settings:
+[06:00:13]:   Dedicated: true
+[06:00:13]:   Online: true
+[06:00:13]:   Passworded: true
+[06:00:13]:   ServerPort: 10999
+[06:00:13]:   SteamAuthPort: 8766
+[06:00:13]:   SteamMasterServerPort: 27016
+[06:00:13]:   ClanID: false
+[06:00:13]:   ClanOnly: false
+[06:00:13]:   ClanAdmin: false
+[06:00:13]:   LanOnly: false
+[06:00:13]:   FriendsOnly: false
+[06:00:13]:   EnableAutosaver: true
+[06:00:13]:   EncodeUserPath: true
+[06:00:13]:   PVP: false
+[06:00:13]:   MaxPlayers: 6
+[06:00:13]:   GameMode: endless
+[06:00:13]:   OverridenDNS: 
+[06:00:13]:   PauseWhenEmpty: true
+[06:00:13]:   IdleTimeout: 1800s
+[06:00:13]:   VoteEnabled: true
+[06:00:13]:   InternetBroadcasting: true
+[06:00:13]: [Shard] Shard server mode disabled: missing is_master setting.
+[06:00:13]: [Shard] Missing 'is_master' config field.
+[06:00:13]: [Error] Server failed to start!
+[06:00:13]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[06:00:13]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[06:00:13]: Details: SOCKET_PORT_ALREADY_IN_USE
+[06:30:12]: [200] Account Communication Success (6)
+[06:30:12]: Received (KU_AAhj47p8) from TokenPurpose
+[06:30:12]: Starting Dedicated Server Game	
+[06:30:12]: Network tick rate: U=15(2), D=0
+[06:30:12]: About to start a server with the following settings:
+[06:30:12]:   Dedicated: true
+[06:30:12]:   Online: true
+[06:30:12]:   Passworded: true
+[06:30:12]:   ServerPort: 10999
+[06:30:12]:   SteamAuthPort: 8766
+[06:30:12]:   SteamMasterServerPort: 27016
+[06:30:12]:   ClanID: false
+[06:30:12]:   ClanOnly: false
+[06:30:12]:   ClanAdmin: false
+[06:30:12]:   LanOnly: false
+[06:30:12]:   FriendsOnly: false
+[06:30:12]:   EnableAutosaver: true
+[06:30:12]:   EncodeUserPath: true
+[06:30:12]:   PVP: false
+[06:30:12]:   MaxPlayers: 6
+[06:30:12]:   GameMode: endless
+[06:30:12]:   OverridenDNS: 
+[06:30:12]:   PauseWhenEmpty: true
+[06:30:12]:   IdleTimeout: 1800s
+[06:30:12]:   VoteEnabled: true
+[06:30:12]:   InternetBroadcasting: true
+[06:30:12]: [Shard] Shard server mode disabled: missing is_master setting.
+[06:30:12]: [Shard] Missing 'is_master' config field.
+[06:30:13]: [Error] Server failed to start!
+[06:30:13]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[06:30:13]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[06:30:13]: Details: SOCKET_PORT_ALREADY_IN_USE
+[07:00:13]: [200] Account Communication Success (6)
+[07:00:13]: Received (KU_AAhj47p8) from TokenPurpose
+[07:00:13]: Starting Dedicated Server Game	
+[07:00:13]: Network tick rate: U=15(2), D=0
+[07:00:13]: About to start a server with the following settings:
+[07:00:13]:   Dedicated: true
+[07:00:13]:   Online: true
+[07:00:13]:   Passworded: true
+[07:00:13]:   ServerPort: 10999
+[07:00:13]:   SteamAuthPort: 8766
+[07:00:13]:   SteamMasterServerPort: 27016
+[07:00:13]:   ClanID: false
+[07:00:13]:   ClanOnly: false
+[07:00:13]:   ClanAdmin: false
+[07:00:13]:   LanOnly: false
+[07:00:13]:   FriendsOnly: false
+[07:00:13]:   EnableAutosaver: true
+[07:00:13]:   EncodeUserPath: true
+[07:00:13]:   PVP: false
+[07:00:13]:   MaxPlayers: 6
+[07:00:13]:   GameMode: endless
+[07:00:13]:   OverridenDNS: 
+[07:00:13]:   PauseWhenEmpty: true
+[07:00:13]:   IdleTimeout: 1800s
+[07:00:13]:   VoteEnabled: true
+[07:00:13]:   InternetBroadcasting: true
+[07:00:13]: [Shard] Shard server mode disabled: missing is_master setting.
+[07:00:13]: [Shard] Missing 'is_master' config field.
+[07:00:13]: [Error] Server failed to start!
+[07:00:13]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[07:00:13]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[07:00:13]: Details: SOCKET_PORT_ALREADY_IN_USE
+[07:30:13]: [200] Account Communication Success (6)
+[07:30:13]: Received (KU_AAhj47p8) from TokenPurpose
+[07:30:13]: Starting Dedicated Server Game	
+[07:30:13]: Network tick rate: U=15(2), D=0
+[07:30:13]: About to start a server with the following settings:
+[07:30:13]:   Dedicated: true
+[07:30:13]:   Online: true
+[07:30:13]:   Passworded: true
+[07:30:13]:   ServerPort: 10999
+[07:30:13]:   SteamAuthPort: 8766
+[07:30:13]:   SteamMasterServerPort: 27016
+[07:30:13]:   ClanID: false
+[07:30:13]:   ClanOnly: false
+[07:30:13]:   ClanAdmin: false
+[07:30:13]:   LanOnly: false
+[07:30:13]:   FriendsOnly: false
+[07:30:13]:   EnableAutosaver: true
+[07:30:13]:   EncodeUserPath: true
+[07:30:13]:   PVP: false
+[07:30:13]:   MaxPlayers: 6
+[07:30:13]:   GameMode: endless
+[07:30:13]:   OverridenDNS: 
+[07:30:13]:   PauseWhenEmpty: true
+[07:30:13]:   IdleTimeout: 1800s
+[07:30:13]:   VoteEnabled: true
+[07:30:13]:   InternetBroadcasting: true
+[07:30:13]: [Shard] Shard server mode disabled: missing is_master setting.
+[07:30:13]: [Shard] Missing 'is_master' config field.
+[07:30:14]: [Error] Server failed to start!
+[07:30:14]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[07:30:14]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[07:30:14]: Details: SOCKET_PORT_ALREADY_IN_USE
+[08:05:17]: CURL ERROR: (login.kleientertainment.com) [28]SSL connection timeout
+[08:05:17]: [0] Account Failed (6): ""
+[08:05:17]: [Warning] Empty error code received, dumping response:
+[08:05:17]: 
+[08:05:17]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[08:05:17]: !!!! Your Server Will Not Start !!!!
+[08:05:17]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[08:05:17]: No auth token could be found.
+[08:05:17]: Please visit https://accounts.klei.com/account/game/servers?game=DontStarveTogether
+[08:05:17]: to generate server configuration files
+[08:05:17]: 
+[08:05:17]: Alternatively generate a cluster_token you can
+[08:05:17]: open the console from a logged-in game
+[08:05:17]: client with the tilda key (~ / ù) and type:
+[08:05:17]: TheNet:GenerateClusterToken()
+[08:05:17]: This will create 'cluster_token.txt' in
+[08:05:17]: your client settings directory. Copy this
+[08:05:17]: into your cluster settings directory.
+[08:05:17]: [Connect] PendingConnection::Reset(true)
+[08:33:25]: [200] Account Communication Success (6)
+[08:33:25]: Received (KU_AAhj47p8) from TokenPurpose
+[08:33:25]: Starting Dedicated Server Game	
+[08:33:25]: Network tick rate: U=15(2), D=0
+[08:33:25]: About to start a server with the following settings:
+[08:33:25]:   Dedicated: true
+[08:33:25]:   Online: true
+[08:33:25]:   Passworded: true
+[08:33:25]:   ServerPort: 10999
+[08:33:25]:   SteamAuthPort: 8766
+[08:33:25]:   SteamMasterServerPort: 27016
+[08:33:25]:   ClanID: false
+[08:33:25]:   ClanOnly: false
+[08:33:25]:   ClanAdmin: false
+[08:33:25]:   LanOnly: false
+[08:33:25]:   FriendsOnly: false
+[08:33:25]:   EnableAutosaver: true
+[08:33:25]:   EncodeUserPath: true
+[08:33:25]:   PVP: false
+[08:33:25]:   MaxPlayers: 6
+[08:33:25]:   GameMode: endless
+[08:33:25]:   OverridenDNS: 
+[08:33:25]:   PauseWhenEmpty: true
+[08:33:25]:   IdleTimeout: 1800s
+[08:33:25]:   VoteEnabled: true
+[08:33:25]:   InternetBroadcasting: true
+[08:33:25]: [Shard] Shard server mode disabled: missing is_master setting.
+[08:33:25]: [Shard] Missing 'is_master' config field.
+[08:33:25]: [Error] Server failed to start!
+[08:33:25]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[08:33:25]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[08:33:25]: Details: SOCKET_PORT_ALREADY_IN_USE
