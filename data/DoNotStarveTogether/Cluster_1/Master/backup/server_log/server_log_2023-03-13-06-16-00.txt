@@ -1,0 +1,390 @@
+[00:00:00]: PersistRootStorage is now /data//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 542788
+[00:00:00]: Current time: Mon Mar 13 00:57:22 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: da0c8f4bbc1f
+[00:00:00]: Release(Kernel) Version: 5.4.119-19.0010.ocrelease.6
+[00:00:00]: Kernel Build Timestamp: #1 SMP Fri Jul 1 16:17:14 CST 2022
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 542788 LINUX
+[00:00:00]: Build Date: 8680
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -skip_update_server_mods -persistent_storage_root /data -ugc_directory /data/ugc -cluster Cluster_1 -shard Master 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (4138703680)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:5.54
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'StreamInput' (4081036096)
+[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /data//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x32
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:04]:   taskgrouplist:	default	联机版	
+[00:00:04]:   taskgrouplist:	classic	经典	
+[00:00:04]:   taskgrouplist:	cave_default	地下	
+[00:00:04]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:04]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:04]: Running main.lua
+	
+[00:00:04]: loaded modindex	
+[00:00:04]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:04]: SUCCESS: Loaded modoverrides.lua	
+[00:00:04]: modoverrides.lua enabling workshop-2287303119	
+[00:00:04]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2287303119_CLIENT	
+[00:00:04]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.58.7	
+[00:00:04]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:04]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:04]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:04]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:04]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:04]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:04]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:04]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:04]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:04]: Overriding mod workshop-2287303119's option lang with value Auto	
+[00:00:04]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:04]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:04]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:04]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:04]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:04]: ShowMe version:	0.58.7	
+[00:00:04]: show_food_units	-1	-1	-1	
+[00:00:04]: show_uses	-1	-1	-1	
+[00:00:04]: Detected language for ShowMe: 	Auto		
+[00:00:05]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:07]: LOADING LUA SUCCESS
+[00:00:07]: Registering Server mod namespace "showmeshint"
+[00:00:07]: Registering Server mod namespace "showme"
+[00:00:07]: PlayerDeaths could not load morgue	
+[00:00:07]: PlayerHistory could not load player_history	
+[00:00:07]: ServerPreferences could not load server_preferences	
+[00:00:07]: ConsoleScreenSettings could not load consolescreen	
+[00:00:07]: bloom_enabled	true	
+[00:00:07]: OnFilesLoaded()	
+[00:00:07]: OnUpdatePurchaseStateComplete	
+[00:00:07]: Klump load on boot started.	
+[00:00:07]: Klump files loaded: 	0	
+[00:00:08]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:08]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:08]: 	Load FE	
+[00:00:09]: THREAD - started 'FilesExistAsyncThread' (4034554688)
+[00:00:09]: FilesExistAsyncThread started (21475 files)...
+[00:00:09]: 	Load FE: done	
+[00:00:09]: Check for write access: TRUE
+[00:00:09]: Check for read access: TRUE
+[00:00:09]: Available disk space for save files: 25488 MB
+[00:00:09]: ModIndex: Load sequence finished successfully.	
+[00:00:09]: Reset() returning
+[00:00:11]: ... FilesExistAsyncThread complete
+[00:00:12]: [200] Account Communication Success (6)
+[00:00:12]: Cached userid (null) saved to /data//DoNotStarveTogether/Cluster_1/Master/save/cached_userid
+[00:00:12]: Received (KU_AAhj47p8) from TokenPurpose
+[00:00:12]: Starting Dedicated Server Game	
+[00:00:12]: Network tick rate: U=15(2), D=0
+[00:00:12]: About to start a server with the following settings:
+[00:00:12]:   Dedicated: true
+[00:00:12]:   Online: true
+[00:00:12]:   Passworded: true
+[00:00:12]:   ServerPort: 10999
+[00:00:12]:   SteamAuthPort: 8766
+[00:00:12]:   SteamMasterServerPort: 27016
+[00:00:12]:   ClanID: false
+[00:00:12]:   ClanOnly: false
+[00:00:12]:   ClanAdmin: false
+[00:00:12]:   LanOnly: false
+[00:00:12]:   FriendsOnly: false
+[00:00:12]:   EnableAutosaver: true
+[00:00:12]:   EncodeUserPath: true
+[00:00:12]:   PVP: false
+[00:00:12]:   MaxPlayers: 6
+[00:00:12]:   GameMode: endless
+[00:00:12]:   OverridenDNS: 
+[00:00:12]:   PauseWhenEmpty: true
+[00:00:12]:   IdleTimeout: 1800s
+[00:00:12]:   VoteEnabled: true
+[00:00:12]:   InternetBroadcasting: true
+[00:00:12]: [Shard] Shard server mode disabled: missing is_master setting.
+[00:00:12]: [Shard] Missing 'is_master' config field.
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:12]: [Error] Server failed to start!
+[00:00:12]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[00:00:12]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[00:00:12]: Details: SOCKET_PORT_ALREADY_IN_USE
+[00:30:15]: [200] Account Communication Success (6)
+[00:30:15]: Received (KU_AAhj47p8) from TokenPurpose
+[00:30:15]: Starting Dedicated Server Game	
+[00:30:15]: Network tick rate: U=15(2), D=0
+[00:30:15]: About to start a server with the following settings:
+[00:30:15]:   Dedicated: true
+[00:30:15]:   Online: true
+[00:30:15]:   Passworded: true
+[00:30:15]:   ServerPort: 10999
+[00:30:15]:   SteamAuthPort: 8766
+[00:30:15]:   SteamMasterServerPort: 27016
+[00:30:15]:   ClanID: false
+[00:30:15]:   ClanOnly: false
+[00:30:15]:   ClanAdmin: false
+[00:30:15]:   LanOnly: false
+[00:30:15]:   FriendsOnly: false
+[00:30:15]:   EnableAutosaver: true
+[00:30:15]:   EncodeUserPath: true
+[00:30:15]:   PVP: false
+[00:30:15]:   MaxPlayers: 6
+[00:30:15]:   GameMode: endless
+[00:30:15]:   OverridenDNS: 
+[00:30:15]:   PauseWhenEmpty: true
+[00:30:15]:   IdleTimeout: 1800s
+[00:30:15]:   VoteEnabled: true
+[00:30:15]:   InternetBroadcasting: true
+[00:30:15]: [Shard] Shard server mode disabled: missing is_master setting.
+[00:30:15]: [Shard] Missing 'is_master' config field.
+[00:30:15]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:30:15]: [Error] Server failed to start!
+[00:30:15]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[00:30:15]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[00:30:15]: Details: SOCKET_PORT_ALREADY_IN_USE
+[01:19:18]: [200] Account Communication Success (6)
+[01:19:18]: Received (KU_AAhj47p8) from TokenPurpose
+[01:19:18]: Starting Dedicated Server Game	
+[01:19:18]: Network tick rate: U=15(2), D=0
+[01:19:18]: About to start a server with the following settings:
+[01:19:18]:   Dedicated: true
+[01:19:18]:   Online: true
+[01:19:18]:   Passworded: true
+[01:19:18]:   ServerPort: 10999
+[01:19:18]:   SteamAuthPort: 8766
+[01:19:18]:   SteamMasterServerPort: 27016
+[01:19:18]:   ClanID: false
+[01:19:18]:   ClanOnly: false
+[01:19:18]:   ClanAdmin: false
+[01:19:18]:   LanOnly: false
+[01:19:18]:   FriendsOnly: false
+[01:19:18]:   EnableAutosaver: true
+[01:19:18]:   EncodeUserPath: true
+[01:19:18]:   PVP: false
+[01:19:18]:   MaxPlayers: 6
+[01:19:18]:   GameMode: endless
+[01:19:18]:   OverridenDNS: 
+[01:19:18]:   PauseWhenEmpty: true
+[01:19:18]:   IdleTimeout: 1800s
+[01:19:18]:   VoteEnabled: true
+[01:19:18]:   InternetBroadcasting: true
+[01:19:18]: [Shard] Shard server mode disabled: missing is_master setting.
+[01:19:18]: [Shard] Missing 'is_master' config field.
+[01:19:18]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[01:19:18]: Online Server Started on port: 10999
+[01:19:18]: SUCCESS: Loaded modoverrides.lua	
+[01:19:18]: Not applying level data overrides.	
+[01:19:18]: Not applying world gen overrides.	
+[01:19:18]: Collecting garbage...
+[01:19:18]: lua_gc took 0.13 seconds
+[01:19:18]: ~ShardLuaProxy()
+[01:19:18]: ~cEventLeaderboardProxy()
+[01:19:18]: ~ItemServerLuaProxy()
+[01:19:18]: ~InventoryLuaProxy()
+[01:19:18]: ~NetworkLuaProxy()
+[01:19:18]: ~SimLuaProxy()
+[01:19:18]: lua_close took 0.17 seconds
+[01:19:18]: ReleaseAll
+[01:19:18]: ReleaseAll Finished
+[01:19:18]: cGame::StartPlaying
+[01:19:18]: AppVersion::GetArchitecture() x32
+[01:19:18]: LOADING LUA
+[01:19:18]: DoLuaFile scripts/main.lua
+[01:19:18]: DoLuaFile loading buffer scripts/main.lua
+[01:19:18]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[01:19:22]:   taskgrouplist:	default	联机版	
+[01:19:22]:   taskgrouplist:	classic	经典	
+[01:19:22]:   taskgrouplist:	cave_default	地下	
+[01:19:22]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[01:19:22]:   taskgrouplist:	quagmire_taskset	暴食	
+[01:19:22]: Running main.lua
+	
+[01:19:22]: loaded modindex	
+[01:19:22]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[01:19:22]: SUCCESS: Loaded modoverrides.lua	
+[01:19:22]: modoverrides.lua enabling workshop-2287303119	
+[01:19:22]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[01:19:22]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[01:19:22]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.58.7	
+[01:19:22]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[01:19:22]: Overriding mod workshop-2287303119's option  with value 0	
+[01:19:22]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[01:19:22]: Overriding mod workshop-2287303119's option T_crop with value true	
+[01:19:22]: Overriding mod workshop-2287303119's option chestR with value -1	
+[01:19:22]: Overriding mod workshop-2287303119's option food_style with value 0	
+[01:19:22]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[01:19:22]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[01:19:22]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[01:19:22]: Overriding mod workshop-2287303119's option lang with value Auto	
+[01:19:22]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[01:19:22]: Overriding mod workshop-2287303119's option chestB with value -1	
+[01:19:22]: Overriding mod workshop-2287303119's option food_order with value 0	
+[01:19:22]: Overriding mod workshop-2287303119's option chestG with value -1	
+[01:19:22]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[01:19:22]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[01:19:22]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[01:19:22]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[01:19:22]: ShowMe version:	0.58.7	
+[01:19:22]: show_food_units	-1	-1	-1	
+[01:19:22]: show_uses	-1	-1	-1	
+[01:19:22]: Detected language for ShowMe: 	Auto		
+[01:19:24]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[01:19:24]: LOADING LUA SUCCESS
+[01:19:24]: Registering Server mod namespace "showmeshint"
+[01:19:24]: Registering Server mod namespace "showme"
+[01:19:24]: PlayerDeaths could not load morgue	
+[01:19:24]: PlayerHistory could not load player_history	
+[01:19:24]: ServerPreferences could not load server_preferences	
+[01:19:24]: ConsoleScreenSettings could not load consolescreen	
+[01:19:24]: bloom_enabled	true	
+[01:19:24]: OnFilesLoaded()	
+[01:19:24]: OnUpdatePurchaseStateComplete	
+[01:19:24]: Loading world: session/7671C611A661965B/0000000003	
+[01:19:24]: Save file is at version 5.13	
+[01:19:24]: Klump load on boot started.	
+[01:19:24]: Klump files loaded: 	0	
+[01:19:25]: 	Unload FE	
+[01:19:25]: 	Unload FE done	
+[01:19:28]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[01:19:28]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[01:19:28]: 	LOAD BE	
+[01:19:41]: 	LOAD BE: done	
+[01:19:41]: Begin Session: 7671C611A661965B
+[01:19:41]: saving to server_temp/server_save	
+[01:19:41]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[01:19:42]: Loading 19 new character(s)	
+[01:19:43]: Total 19 character(s) loaded	
+[01:19:44]: Loading Nav Grid	
+[01:19:44]: World generated on build 542788 with save version: 5.13, using seed: 1678282725	
+[01:19:44]: setting 	summerlength	15	
+[01:19:44]: setting 	cavemoonphase	new	
+[01:19:44]: setting 	iscavefullmoon	false	
+[01:19:44]: setting 	isnightmaredawn	false	
+[01:19:44]: setting 	elapseddaysinseason	0	
+[01:19:44]: setting 	isfullmoon	false	
+[01:19:44]: setting 	moisture	0.033333335071802	
+[01:19:44]: setting 	cavephase	day	
+[01:19:44]: setting 	iscavewaxingmoon	true	
+[01:19:44]: setting 	isnightmarewild	false	
+[01:19:44]: setting 	nightmaretimeinphase	0	
+[01:19:44]: setting 	precipitationrate	0	
+[01:19:44]: setting 	iswet	false	
+[01:19:44]: setting 	isnewmoon	false	
+[01:19:44]: setting 	precipitation	none	
+[01:19:44]: setting 	israining	false	
+[01:19:44]: setting 	isnightmarewarn	false	
+[01:19:44]: setting 	iswinter	false	
+[01:19:44]: setting 	season	autumn	
+[01:19:44]: setting 	remainingdaysinseason	20	
+[01:19:44]: setting 	winterlength	15	
+[01:19:44]: setting 	iscaveday	true	
+[01:19:44]: setting 	moistureceil	511.43597412109	
+[01:19:44]: setting 	isday	true	
+[01:19:44]: setting 	springlength	20	
+[01:19:44]: setting 	wetness	0	
+[01:19:44]: setting 	iscavedusk	false	
+[01:19:44]: setting 	isalterawake	false	
+[01:19:44]: setting 	isnightmarecalm	false	
+[01:19:44]: setting 	isnight	false	
+[01:19:44]: setting 	isdusk	false	
+[01:19:44]: setting 	isspring	false	
+[01:19:44]: setting 	isautumn	true	
+[01:19:44]: setting 	issnowing	false	
+[01:19:44]: setting 	iswaxingmoon	true	
+[01:19:44]: setting 	phase	day	
+[01:19:44]: setting 	snowlevel	0	
+[01:19:44]: setting 	issnowcovered	false	
+[01:19:44]: setting 	autumnlength	20	
+[01:19:44]: setting 	pop	6.5175968759503e-05	
+[01:19:44]: setting 	nightmaretime	0	
+[01:19:44]: setting 	seasonprogress	0.5	
+[01:19:44]: setting 	moonphase	new	
+[01:19:44]: setting 	nightmarephase	none	
+[01:19:44]: setting 	cycles	0	
+[01:19:44]: setting 	timeinphase	0.000555674235026	
+[01:19:44]: setting 	iscavenight	false	
+[01:19:44]: setting 	iscavenewmoon	false	
+[01:19:44]: setting 	issummer	false	
+[01:19:44]: setting 	temperature	30.033215977556	
+[01:19:44]: setting 	time	0.000277837117513	
+[01:19:44]: OVERRIDE: setting	resettime	to	none	
+[01:19:44]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[01:19:44]: OVERRIDE: setting	portalresurection	to	always	
+[01:19:44]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[01:19:50]: Reconstructing topology	
+[01:19:50]: 	...Sorting points	
+[01:19:50]: 	...Sorting edges	
+[01:19:50]: 	...Connecting nodes	
+[01:19:50]: 	...Validating connections	
+[01:19:50]: 	...Housekeeping	
+[01:19:50]: 	...Done!	
+[01:19:50]: 1 uploads added to server. From server_temp
+[01:19:50]: Telling Client our new session identifier: 7671C611A661965B
+[01:19:50]: Check for write access: TRUE
+[01:19:50]: Check for read access: TRUE
+[01:19:50]: Available disk space for save files: 25518 MB
+[01:19:50]: ModIndex: Load sequence finished successfully.	
+[01:19:50]: Reset() returning
+[01:19:51]: Validating portal[8] <-> <nil>[8] (inactive)	
+[01:19:51]: Validating portal[2] <-> <nil>[2] (inactive)	
+[01:19:51]: Validating portal[7] <-> <nil>[7] (inactive)	
+[01:19:51]: Validating portal[9] <-> <nil>[9] (inactive)	
+[01:19:51]: Validating portal[1] <-> <nil>[1] (inactive)	
+[01:19:51]: Validating portal[4] <-> <nil>[4] (inactive)	
+[01:19:51]: Validating portal[10] <-> <nil>[10] (inactive)	
+[01:19:51]: Validating portal[6] <-> <nil>[6] (inactive)	
+[01:19:51]: Validating portal[3] <-> <nil>[3] (inactive)	
+[01:19:51]: Validating portal[5] <-> <nil>[5] (inactive)	
+[01:19:51]: Sim paused
+[01:20:02]: Server registered via geo DNS in ap-east-1
+[01:49:17]: [200] Account Communication Success (6)
+[01:49:17]: Received (KU_AAhj47p8) from TokenPurpose
+[02:19:17]: [200] Account Communication Success (6)
+[02:19:17]: Received (KU_AAhj47p8) from TokenPurpose
+[02:49:17]: [200] Account Communication Success (6)
+[02:49:17]: Received (KU_AAhj47p8) from TokenPurpose
+[03:19:17]: [200] Account Communication Success (6)
+[03:19:17]: Received (KU_AAhj47p8) from TokenPurpose
+[03:49:17]: [200] Account Communication Success (6)
+[03:49:17]: Received (KU_AAhj47p8) from TokenPurpose
+[04:19:17]: [200] Account Communication Success (6)
+[04:19:17]: Received (KU_AAhj47p8) from TokenPurpose
+[04:49:17]: [200] Account Communication Success (6)
+[04:49:17]: Received (KU_AAhj47p8) from TokenPurpose

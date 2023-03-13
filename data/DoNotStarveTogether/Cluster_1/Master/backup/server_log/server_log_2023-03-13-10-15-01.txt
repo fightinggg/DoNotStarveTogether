@@ -1,0 +1,325 @@
+[00:00:00]: PersistRootStorage is now /data//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 542788
+[00:00:00]: Current time: Mon Mar 13 06:16:00 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: da0c8f4bbc1f
+[00:00:00]: Release(Kernel) Version: 5.4.119-19.0010.ocrelease.6
+[00:00:00]: Kernel Build Timestamp: #1 SMP Fri Jul 1 16:17:14 CST 2022
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 542788 LINUX
+[00:00:00]: Build Date: 8680
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -skip_update_server_mods -persistent_storage_root /data -ugc_directory /data/ugc -cluster Cluster_1 -shard Master 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (4138527552)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:6.41
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /data//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: THREAD - started 'StreamInput' (4083141440)
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x32
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:03]:   taskgrouplist:	default	联机版	
+[00:00:03]:   taskgrouplist:	classic	经典	
+[00:00:03]:   taskgrouplist:	cave_default	地下	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:03]: Running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:03]: SUCCESS: Loaded modoverrides.lua	
+[00:00:03]: modoverrides.lua enabling workshop-2287303119	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2287303119_CLIENT	
+[00:00:03]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.58.7	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:03]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:03]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:03]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:03]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:03]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:03]: Overriding mod workshop-2287303119's option lang with value Auto	
+[00:00:03]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:03]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:03]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:03]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:03]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:03]: ShowMe version:	0.58.7	
+[00:00:03]: show_food_units	-1	-1	-1	
+[00:00:03]: show_uses	-1	-1	-1	
+[00:00:03]: Detected language for ShowMe: 	Auto		
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: Registering Server mod namespace "showmeshint"
+[00:00:05]: Registering Server mod namespace "showme"
+[00:00:05]: PlayerDeaths could not load morgue	
+[00:00:05]: PlayerHistory could not load player_history	
+[00:00:05]: ServerPreferences could not load server_preferences	
+[00:00:05]: ConsoleScreenSettings could not load consolescreen	
+[00:00:05]: bloom_enabled	true	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:06]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:06]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:06]: 	Load FE	
+[00:00:07]: THREAD - started 'FilesExistAsyncThread' (4036483904)
+[00:00:07]: FilesExistAsyncThread started (21475 files)...
+[00:00:07]: 	Load FE: done	
+[00:00:07]: Check for write access: TRUE
+[00:00:07]: Check for read access: TRUE
+[00:00:07]: Available disk space for save files: 25510 MB
+[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:07]: Reset() returning
+[00:00:09]: [200] Account Communication Success (6)
+[00:00:09]: Cached userid (null) saved to /data//DoNotStarveTogether/Cluster_1/Master/save/cached_userid
+[00:00:09]: Received (KU_AAhj47p8) from TokenPurpose
+[00:00:09]: Starting Dedicated Server Game	
+[00:00:09]: Network tick rate: U=15(2), D=0
+[00:00:09]: About to start a server with the following settings:
+[00:00:09]:   Dedicated: true
+[00:00:09]:   Online: true
+[00:00:09]:   Passworded: true
+[00:00:09]:   ServerPort: 10999
+[00:00:09]:   SteamAuthPort: 8766
+[00:00:09]:   SteamMasterServerPort: 27016
+[00:00:09]:   ClanID: false
+[00:00:09]:   ClanOnly: false
+[00:00:09]:   ClanAdmin: false
+[00:00:09]:   LanOnly: false
+[00:00:09]:   FriendsOnly: false
+[00:00:09]:   EnableAutosaver: true
+[00:00:09]:   EncodeUserPath: true
+[00:00:09]:   PVP: false
+[00:00:09]:   MaxPlayers: 6
+[00:00:09]:   GameMode: endless
+[00:00:09]:   OverridenDNS: 
+[00:00:09]:   PauseWhenEmpty: true
+[00:00:09]:   IdleTimeout: 1800s
+[00:00:09]:   VoteEnabled: true
+[00:00:09]:   InternetBroadcasting: true
+[00:00:09]: [Shard] Shard server mode disabled: missing is_master setting.
+[00:00:09]: [Shard] Missing 'is_master' config field.
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:09]: Online Server Started on port: 10999
+[00:00:09]: SUCCESS: Loaded modoverrides.lua	
+[00:00:09]: Not applying level data overrides.	
+[00:00:09]: Not applying world gen overrides.	
+[00:00:09]: Collecting garbage...
+[00:00:09]: lua_gc took 0.10 seconds
+[00:00:09]: ~ShardLuaProxy()
+[00:00:09]: ~cEventLeaderboardProxy()
+[00:00:09]: ~ItemServerLuaProxy()
+[00:00:09]: ~InventoryLuaProxy()
+[00:00:09]: ~NetworkLuaProxy()
+[00:00:09]: ~SimLuaProxy()
+[00:00:09]: FilesExistAsyncThread aborted.
+[00:00:09]: ... FilesExistAsyncThread complete
+[00:00:09]: lua_close took 0.12 seconds
+[00:00:09]: ReleaseAll
+[00:00:09]: ReleaseAll Finished
+[00:00:09]: cGame::StartPlaying
+[00:00:09]: AppVersion::GetArchitecture() x32
+[00:00:09]: LOADING LUA
+[00:00:09]: DoLuaFile scripts/main.lua
+[00:00:09]: DoLuaFile loading buffer scripts/main.lua
+[00:00:09]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:11]:   taskgrouplist:	default	联机版	
+[00:00:11]:   taskgrouplist:	classic	经典	
+[00:00:11]:   taskgrouplist:	cave_default	地下	
+[00:00:11]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:11]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:11]: Running main.lua
+	
+[00:00:11]: loaded modindex	
+[00:00:11]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:11]: SUCCESS: Loaded modoverrides.lua	
+[00:00:11]: modoverrides.lua enabling workshop-2287303119	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:11]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.58.7	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:11]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:11]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:11]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:11]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:11]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:11]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:11]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:11]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:11]: Overriding mod workshop-2287303119's option lang with value Auto	
+[00:00:11]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:11]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:11]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:11]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:11]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:11]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:11]: ShowMe version:	0.58.7	
+[00:00:11]: show_food_units	-1	-1	-1	
+[00:00:11]: show_uses	-1	-1	-1	
+[00:00:11]: Detected language for ShowMe: 	Auto		
+[00:00:12]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:12]: LOADING LUA SUCCESS
+[00:00:12]: Registering Server mod namespace "showmeshint"
+[00:00:12]: Registering Server mod namespace "showme"
+[00:00:12]: PlayerDeaths could not load morgue	
+[00:00:12]: PlayerHistory could not load player_history	
+[00:00:12]: ServerPreferences could not load server_preferences	
+[00:00:12]: ConsoleScreenSettings could not load consolescreen	
+[00:00:12]: bloom_enabled	true	
+[00:00:12]: OnFilesLoaded()	
+[00:00:12]: OnUpdatePurchaseStateComplete	
+[00:00:12]: Loading world: session/7671C611A661965B/0000000003	
+[00:00:12]: Save file is at version 5.13	
+[00:00:12]: Klump load on boot started.	
+[00:00:12]: Klump files loaded: 	0	
+[00:00:12]: 	Unload FE	
+[00:00:12]: 	Unload FE done	
+[00:00:15]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:15]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:15]: 	LOAD BE	
+[00:00:28]: 	LOAD BE: done	
+[00:00:28]: Begin Session: 7671C611A661965B
+[00:00:28]: saving to server_temp/server_save	
+[00:00:28]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:28]: Loading 19 new character(s)	
+[00:00:30]: Total 19 character(s) loaded	
+[00:00:30]: Loading Nav Grid	
+[00:00:30]: World generated on build 542788 with save version: 5.13, using seed: 1678282725	
+[00:00:30]: setting 	summerlength	15	
+[00:00:30]: setting 	cavemoonphase	new	
+[00:00:30]: setting 	iscavefullmoon	false	
+[00:00:30]: setting 	isnightmaredawn	false	
+[00:00:30]: setting 	elapseddaysinseason	0	
+[00:00:30]: setting 	isfullmoon	false	
+[00:00:30]: setting 	moisture	0.033333335071802	
+[00:00:30]: setting 	cavephase	day	
+[00:00:30]: setting 	iscavewaxingmoon	true	
+[00:00:30]: setting 	isnightmarewild	false	
+[00:00:30]: setting 	nightmaretimeinphase	0	
+[00:00:30]: setting 	precipitationrate	0	
+[00:00:30]: setting 	iswet	false	
+[00:00:30]: setting 	isnewmoon	false	
+[00:00:30]: setting 	precipitation	none	
+[00:00:30]: setting 	israining	false	
+[00:00:30]: setting 	isnightmarewarn	false	
+[00:00:30]: setting 	iswinter	false	
+[00:00:30]: setting 	season	autumn	
+[00:00:30]: setting 	remainingdaysinseason	20	
+[00:00:30]: setting 	winterlength	15	
+[00:00:30]: setting 	iscaveday	true	
+[00:00:30]: setting 	moistureceil	511.43597412109	
+[00:00:30]: setting 	isday	true	
+[00:00:30]: setting 	springlength	20	
+[00:00:30]: setting 	wetness	0	
+[00:00:30]: setting 	iscavedusk	false	
+[00:00:30]: setting 	isalterawake	false	
+[00:00:30]: setting 	isnightmarecalm	false	
+[00:00:30]: setting 	isnight	false	
+[00:00:30]: setting 	isdusk	false	
+[00:00:30]: setting 	isspring	false	
+[00:00:30]: setting 	isautumn	true	
+[00:00:30]: setting 	issnowing	false	
+[00:00:30]: setting 	iswaxingmoon	true	
+[00:00:30]: setting 	phase	day	
+[00:00:30]: setting 	snowlevel	0	
+[00:00:30]: setting 	issnowcovered	false	
+[00:00:30]: setting 	autumnlength	20	
+[00:00:30]: setting 	pop	6.5175968759503e-05	
+[00:00:30]: setting 	nightmaretime	0	
+[00:00:30]: setting 	seasonprogress	0.5	
+[00:00:30]: setting 	moonphase	new	
+[00:00:30]: setting 	nightmarephase	none	
+[00:00:30]: setting 	cycles	0	
+[00:00:30]: setting 	timeinphase	0.000555674235026	
+[00:00:30]: setting 	iscavenight	false	
+[00:00:30]: setting 	iscavenewmoon	false	
+[00:00:30]: setting 	issummer	false	
+[00:00:30]: setting 	temperature	30.033215977556	
+[00:00:30]: setting 	time	0.000277837117513	
+[00:00:30]: OVERRIDE: setting	resettime	to	none	
+[00:00:30]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:00:30]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:30]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:36]: Reconstructing topology	
+[00:00:36]: 	...Sorting points	
+[00:00:36]: 	...Sorting edges	
+[00:00:36]: 	...Connecting nodes	
+[00:00:36]: 	...Validating connections	
+[00:00:36]: 	...Housekeeping	
+[00:00:36]: 	...Done!	
+[00:00:36]: 1 uploads added to server. From server_temp
+[00:00:36]: Telling Client our new session identifier: 7671C611A661965B
+[00:00:36]: Check for write access: TRUE
+[00:00:36]: Check for read access: TRUE
+[00:00:36]: Available disk space for save files: 25510 MB
+[00:00:36]: ModIndex: Load sequence finished successfully.	
+[00:00:37]: Reset() returning
+[00:00:37]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:00:37]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:00:37]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:00:37]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:00:37]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:00:37]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:00:37]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:00:37]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:00:37]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:00:37]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:00:38]: Sim paused
+[00:00:43]: Server registered via geo DNS in ap-east-1
+[00:30:09]: [200] Account Communication Success (6)
+[00:30:09]: Received (KU_AAhj47p8) from TokenPurpose
+[01:00:09]: [200] Account Communication Success (6)
+[01:00:09]: Received (KU_AAhj47p8) from TokenPurpose
+[01:30:09]: [200] Account Communication Success (6)
+[01:30:09]: Received (KU_AAhj47p8) from TokenPurpose
+[02:00:09]: [200] Account Communication Success (6)
+[02:00:09]: Received (KU_AAhj47p8) from TokenPurpose
+[02:30:10]: [200] Account Communication Success (6)
+[02:30:10]: Received (KU_AAhj47p8) from TokenPurpose
+[03:00:10]: [200] Account Communication Success (6)
+[03:00:10]: Received (KU_AAhj47p8) from TokenPurpose
+[03:30:09]: [200] Account Communication Success (6)
+[03:30:09]: Received (KU_AAhj47p8) from TokenPurpose
